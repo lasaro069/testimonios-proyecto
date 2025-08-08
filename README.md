@@ -23,3 +23,4 @@
 * la información que se cargará en la plantilla se crea en el archivo 'App.js'
 
 * en el segundo y tercer testimonio, en el atributo 'testimonio' se abren {} para poder hacer modificaciones al texto, poner negrita
+* se modifica el archivo testimonio.css
